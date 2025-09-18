@@ -27,5 +27,4 @@ It provides insights into **sales trends, product performance, outlet distributi
 
 ---
 
-## 📬 Contact
-[LinkedIn](https://www.linkedin.com/in/astha-gupta-a863a821a/) | guptaastha428@gmail.com
+#
