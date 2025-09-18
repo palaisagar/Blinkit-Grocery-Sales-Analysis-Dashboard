@@ -23,8 +23,6 @@ It provides insights into **sales trends, product performance, outlet distributi
   ---
 
 ## 📁 File Included
-- <a href='https://github.com/Asthagupta1774/Blinkit-Grocery-Sales-Excel-Dashbord/blob/main/Blinkit%20Sales%20Dashbord.xlsx'> The complete dashboard with KPIs and slicers.
+- <a href='[https://github.com/Asthagupta1774/Blinkit-Grocery-Sales-Excel-Dashbord/blob/main/Blinkit%20Sales%20Dashbord.xlsx](https://github.com/palaisagar/Blinkit-Grocery-Sales-Analysis-Dashboard/blob/main/Blinkit%20Sales%20Dashbord.xlsx)'> The complete dashboard with KPIs and slicers.
 
----
 
-#
